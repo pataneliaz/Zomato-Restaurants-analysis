@@ -93,7 +93,7 @@ It concludes with an **interactive Power BI dashboard** and a **summary of insig
 
 ✅ Fully interactive, filterable, and designed for **quick executive insights**.  
 
-📸 *Final dashboard output: (Add GitHub image link once uploaded)*  
+📸 *Final dashboard output: (https://1drv.ms/i/c/a9064c978fcc341e/EQCxVoEIRJdFvo6-WqUcsQcB2-KP4kjyo_EHZYWHMf0qrQ?e=nmYT2W)*  
 
 ---
 
